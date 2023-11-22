@@ -72,29 +72,29 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Software Engineer
+    company_name: iSoftStone
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-04-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+        - Working as an assistant in the development and deployment of Kingdee Software, an end-to-end business solution in the realm of enterprise management software.
+        - Responsible for communicating with clients and assisting them with the deployment of Kingdee Enterprise
+        Management Software according to their specific needs.
+        - I refined my software development skills while collaborating with teammates to meet client requirements.- Working as an assistant in the development and deployment of Kingdee Software, an end-to-end business solution in the realm of enterprise management software. - Responsible for communicating with clients and assisting them with the deployment of Kingdee Enterprise Management Software according to their specific needs. - I refined my software development skills while collaborating with teammates to meet client requirements.
+  - position: Data Analyst
+    company_name: Pfizer
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+        - Responsible for organizing Sale Data for outsourcing product management department
+        - Collected and analyzed approximately 100,000 entries of data with Excel from eight outsourcing companies
+        - Monitored vendor data loading to align with data flow activities and create a data input model
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -134,8 +134,6 @@ languages:
     percent: 100
   - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

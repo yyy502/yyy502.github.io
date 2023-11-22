@@ -23,7 +23,7 @@ sections:
     design:
       # Hugo date format
       date_format: 'January 2006'
-      is_education_first: false
+      is_education_first: True
   - block: skills
     content:
       title: Skills & Hobbies
