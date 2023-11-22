@@ -144,7 +144,7 @@ awards:
   - title: MITx Fundamentals of Statistics
     url: https://courses.edx.org/certificates/0c2b2267505c45bcb80d522192f6287c
     date: '2023-08-01'
-    awarder:edx
+    awarder: edx
     icon: edx
     summary: |
       - I studied the foundational concept of Mathmatical Statistics.
