@@ -144,15 +144,15 @@ awards:
   - title: MITx Fundamentals of Statistics
     url: https://courses.edx.org/certificates/0c2b2267505c45bcb80d522192f6287c
     date: '2023-08-01'
-    awarder: edx
-    icon: edx
+    awarder: MITx
+    icon: mitx
     summary: |
       - I studied the foundational concept of Mathmatical Statistics.
   - title: MITx Probability - The Science of Uncertainty and Data
     url: https://courses.edx.org/certificates/ae30825f0cb3454c8cf9b81d6542f632
     date: '2023-08-01'
-    awarder: edx
-    icon: edx
+    awarder: MITx
+    icon: mitx
     summary: |
       Learned:
       - I learned the fundmental of probability
