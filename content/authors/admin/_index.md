@@ -35,7 +35,7 @@ social:
   - icon: github
     link: https://github.com/yyy502
   - icon: linkedin
-    link: https://www.linkedin.com/yyy502
+    link: https://www.linkedin.com/in/yyy502/
   # - icon: instagram
   #   link: https://www.instagram.com/
 
