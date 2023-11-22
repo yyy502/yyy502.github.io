@@ -77,7 +77,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-04-01
-    date_end: ''
+    date_end: 2023-07-01
     summary: |2-
       Responsibilities include:
         - Working as an assistant in the development and deployment of Kingdee Software, an end-to-end business solution in the realm of enterprise management software.
@@ -139,22 +139,23 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: MITx Fundamentals of Statistics
-#     url: https://courses.edx.org/certificates/0c2b2267505c45bcb80d522192f6287c
-#     date: '2023-08-01'
-#     awarder:edx
-#     icon: edx
-#     summary: |
-#       I studied the foundational concept of Mathmatical Statistics.
-#   - title: MITx Probability - The Science of Uncertainty and Data
-#     url: https://courses.edx.org/certificates/ae30825f0cb3454c8cf9b81d6542f632
-#     date: '2023-08-01'
-#     awarder: edx
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - I learned the fundmental of probability
+
+awards:
+  - title: MITx Fundamentals of Statistics
+    url: https://courses.edx.org/certificates/0c2b2267505c45bcb80d522192f6287c
+    date: '2023-08-01'
+    awarder:edx
+    icon: edx
+    summary: |
+      - I studied the foundational concept of Mathmatical Statistics.
+  - title: MITx Probability - The Science of Uncertainty and Data
+    url: https://courses.edx.org/certificates/ae30825f0cb3454c8cf9b81d6542f632
+    date: '2023-08-01'
+    awarder: edx
+    icon: edx
+    summary: |
+      Learned:
+      - I learned the fundmental of probability
 ---
 
 I am currently a Data Science Student at New York Univeristy. My interest domain includes data analysis, consutlting, machine learning.
