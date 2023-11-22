@@ -116,10 +116,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Basketball
         description: ''
-        percent: 60
-        icon: person-simple-walk
+        percent: 70
+        icon: basketball
       - name: Cats
         description: ''
         percent: 100
@@ -133,7 +133,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
