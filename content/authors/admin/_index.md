@@ -119,7 +119,7 @@ skills:
       - name: Basketball
         description: ''
         percent: 70
-        icon: basketball-ball
+        icon: basketball
       - name: Cats
         description: ''
         percent: 100
