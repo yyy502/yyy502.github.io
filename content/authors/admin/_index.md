@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 杨语嫣
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yuyan Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuyan
+last_name: Yang
 
 # Status emoji
 status:
@@ -17,60 +17,60 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Data Scientist
 
 # Organizations/Affiliations to display in About block
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: New York University
+    url: https://www.nyu.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: at-symbol
-    link: 'mailto:your-email@example.com'
-  - icon: x
-    link: https://twitter.com/GetResearchDev
-    label: Follow me on Twitter
+    link: 'mailto:yy5022@nyu.edu'
+  # - icon: x
+  #   link: https://twitter.com/GetResearchDev
+  #   label: Follow me on Twitter
   - icon: github
-    link: https://github.com/gcushen
+    link: https://github.com/yyy502
   - icon: linkedin
-    link: https://www.linkedin.com/
-  - icon: instagram
-    link: https://www.instagram.com/
+    link: https://www.linkedin.com/yyy502
+  # - icon: instagram
+  #   link: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      label: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MSc Data Science
+    institution: New York Univeristy
+    date_start: 2023-09-01
+    date_end: 2025-05-31
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   label: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: BSc Data Science 
+    institution: Penn State University 
+    date_start: 2019-08-01
+    date_end: 2022-12-31
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Hospitality 
+    institution: Penn State University 
+    date_start: 2019-08-01
+    date_end: 2022-12-31
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
