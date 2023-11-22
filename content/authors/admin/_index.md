@@ -119,7 +119,7 @@ skills:
       - name: Basketball
         description: ''
         percent: 70
-        icon: basketball
+        icon: ball
       - name: Cats
         description: ''
         percent: 100
@@ -158,5 +158,9 @@ awards:
       - I learned the fundmental of probability
 ---
 
-I am currently a Data Science Student at New York Univeristy. My interest domain includes data analysis, consutlting, machine learning.
+I'm a dedicated and passionate Data Science student at New York University. My journey in the field of data science is driven by a deep interest in data analysis, consulting, and machine learning. These areas fascinate me as they blend analytical skills with creative problem-solving, allowing me to uncover insights and drive innovation.
+
+My academic journey at NYU is not just about gaining technical expertise; it's about growing as a problem solver and a thinker. Courses and projects have honed my skills in handling complex datasets, deriving meaningful conclusions, and developing algorithms that can predict, analyze, and improve business processes.
+
+But it's not all data and algorithms! When I'm not immersed in numbers, I love hitting the basketball court. Playing basketball is not just a hobby for me; it's a way of learning teamwork, discipline, and strategy – skills that are as essential in the world of data science as they are on the court.
 {style="text-align: justify; font-size: 0.8em;"}
