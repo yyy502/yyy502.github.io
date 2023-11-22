@@ -144,17 +144,17 @@ awards:
     url: https://courses.edx.org/certificates/0c2b2267505c45bcb80d522192f6287c
     date: '2023-08-01'
     awarder:MITx
-    icon: mit
-    # summary: |
-    #   I studied the foundational concept of Mathmatical Statistics.
+    icon: edx
+    summary: |
+      I studied the foundational concept of Mathmatical Statistics.
   - title: MITx Probability - The Science of Uncertainty and Data
     url: https://courses.edx.org/certificates/ae30825f0cb3454c8cf9b81d6542f632
     date: '2023-08-01'
     awarder: MITx
-    icon: mit
-    # summary: |
-    #   Learned:
-    #   - I learned the fundmenta
+    icon: edx
+    summary: |
+      Learned:
+      - I learned the fundmental of probability
 ---
 
 I am currently a Data Science Student at New York Univeristy. My interest domain includes data analysis, consutlting, machine learning.
